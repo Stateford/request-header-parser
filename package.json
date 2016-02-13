@@ -1,0 +1,22 @@
+{
+  "name": "request-header-parser",
+  "version": "1.0.0",
+  "description": "freecodecamp project",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idietmoran/request-header-parser.git"
+  },
+  "author": "idietmoran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/idietmoran/request-header-parser/issues"
+  },
+  "homepage": "https://github.com/idietmoran/request-header-parser#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
